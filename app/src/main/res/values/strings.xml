@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RickAndMortyAPI</string>
+    <string name="character_status">Status</string>
+    <string name="character_specie">Specie</string>
+    <string name="character_name">Name</string>
+    <string name="character_list_label_last_known_location">"Last known location: "</string>
+</resources>
